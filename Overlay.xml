@@ -6,7 +6,7 @@
           <Creatives>
             <Creative sequence="1">
               <NonLinearAds>
-                  <NonLinear width="414" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <NonLinear width="500" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
                   <StaticResource creativeType="application/x-javascript">
                     <![CDATA[
                       https://jaretpwatkins.github.io/kargo/monster_hover.html
