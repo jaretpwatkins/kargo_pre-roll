@@ -10,7 +10,7 @@
         <Creative id="111" sequence="1">
           <Linear>
             <Icons>
-              <Icon program="AdChoices" width="160" height="60" xPosition="left" yPosition="top">
+              <Icon program="AdChoices" width="160" height="60" xPosition="left" yPosition="bottom">
                 <StaticResource creativeType="image/png">
                   <![CDATA[https://jaretpwatkins.github.io/kargo/Ad_Council.png]]>
                 </StaticResource>
