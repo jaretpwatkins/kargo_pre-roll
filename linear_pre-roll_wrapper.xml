@@ -1,0 +1,33 @@
+<VAST version="2.0">
+  <Ad id="111" sequence="1">
+    <Wrapper allowMultipleAds="true">
+      <VASTAdTagURI>
+        <![CDATA[
+          https://raw.githubusercontent.com/jaretpwatkins/kargo/main/vast_example.xml
+        ]]>
+      </VASTAdTagURI>
+      <Creatives>
+        <Creative id="111" sequence="1">
+          <Linear>
+            <Icons>
+              <Icon program="AdChoices" width="160" height="60" xPosition="left" yPosition="top">
+                <StaticResource creativeType="image/png">
+                  <![CDATA[https://jaretpwatkins.github.io/kargo/Ad_Council.png]]>
+                </StaticResource>
+              </Icon>
+            </Icons>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </Wrapper>
+  </Ad>
+    <Ad id="111-overlay" sequence="2">
+     <Wrapper>
+       <VASTAdTagURI>
+         <![CDATA[
+           https://raw.githubusercontent.com/jaretpwatkins/kargo_pre-roll/main/Overlay.xml
+         ]]>
+       </VASTAdTagURI>
+     </Wrapper>
+   </Ad>
+</VAST>
