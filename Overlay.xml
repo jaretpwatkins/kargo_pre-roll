@@ -1,5 +1,5 @@
 <VAST version="2.0">
-  <Ad id="111" sequence="1">
+  <Ad id="000" sequence="1">
     <InLine>
       <AdSystem>Kargo</AdSystem>
         <AdTitle>Test VAST</AdTitle>
