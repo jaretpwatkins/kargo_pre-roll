@@ -5,49 +5,6 @@
         <AdTitle>Test VAST</AdTitle>
           <Creatives>
             <Creative sequence="1">
-              <NonLinearAds>
-                <NonLinear width="1000" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-                  <StaticResource creativeType="application/x-javascript">
-                    <![CDATA[
-                      https://jaretpwatkins.github.io/kargo_pre-roll/Ad_Council_Overlay.html
-                    ]]>
-                  </StaticResource>
-                </NonLinear>
-                <NonLinear width="900" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-                  <StaticResource creativeType="application/x-javascript">
-                    <![CDATA[
-                      https://jaretpwatkins.github.io/kargo_pre-roll/Ad_Council_Overlay.html
-                    ]]>
-                  </StaticResource>
-                </NonLinear>
-                <NonLinear width="800" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-                  <StaticResource creativeType="application/x-javascript">
-                    <![CDATA[
-                      https://jaretpwatkins.github.io/kargo_pre-roll/Ad_Council_Overlay.html
-                    ]]>
-                  </StaticResource>
-                </NonLinear>
-                <NonLinear width="700" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-                  <StaticResource creativeType="application/x-javascript">
-                    <![CDATA[
-                      https://jaretpwatkins.github.io/kargo_pre-roll/Ad_Council_Overlay.html
-                    ]]>
-                  </StaticResource>
-                </NonLinear>
-                <NonLinear width="600" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-                  <StaticResource creativeType="application/x-javascript">
-                    <![CDATA[
-                      https://jaretpwatkins.github.io/kargo_pre-roll/Ad_Council_Overlay.html
-                    ]]>
-                  </StaticResource>
-                </NonLinear>
-                <NonLinear width="500" height="90" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-                  <StaticResource creativeType="application/x-javascript">
-                    <![CDATA[
-                      https://jaretpwatkins.github.io/kargo_pre-roll/Ad_Council_Overlay.html
-                    ]]>
-                  </StaticResource>
-                </NonLinear>
                 <NonLinear width="414" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
                   <StaticResource creativeType="application/x-javascript">
                     <![CDATA[
