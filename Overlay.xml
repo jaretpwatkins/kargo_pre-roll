@@ -5,6 +5,7 @@
         <AdTitle>Test VAST</AdTitle>
           <Creatives>
             <Creative sequence="1">
+              <NonLinearAds>
                 <NonLinear width="414" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
                   <StaticResource creativeType="application/x-javascript">
                     <![CDATA[
