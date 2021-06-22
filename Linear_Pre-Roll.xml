@@ -5,7 +5,7 @@
         <AdTitle>Test VAST</AdTitle>
           <Creatives>
             <Creative sequence="1">
-              <Linear skipoffset="00:00:05">
+              <Linear skipoffset="00:00:02">
                 <Duration>00:00:16</Duration>
                   <TrackingEvents></TrackingEvents>
                     <VideoClicks>
