@@ -21,15 +21,15 @@
                     </MediaFile>
                   </MediaFiles>
                 <Icons>
+                                      <IconClicks> 
+                      <IconClickThrough>
+                        <![CDATA[http://google.com]]> 
+                      </IconClickThrough>
+                    </IconClicks>
                   <Icon program="AdChoices" width="160" height="60" xPosition="left" yPosition="bottom">
                     <StaticResource creativeType="image/png">
                       <![CDATA[https://jaretpwatkins.github.io/kargo/Ad_Council.png]]>
                     </StaticResource>
-                    <IconClicks> 
-                      <IconClickThrough>
-                        <![CDATA[http://google.com]> 
-                      </IconClickThrough>
-                    </IconClicks>
                   </Icon>
                 </Icons>
               </Linear>
