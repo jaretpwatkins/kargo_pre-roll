@@ -25,6 +25,11 @@
                     <StaticResource creativeType="image/png">
                       <![CDATA[https://jaretpwatkins.github.io/kargo/Ad_Council.png]]>
                     </StaticResource>
+                    <IconClicks> 
+                      <IconClickThrough>
+                        <![CDATA[http://google.com]> 
+                      </IconClickThrough>
+                    </IconClicks>
                   </Icon>
                 </Icons>
               </Linear>
