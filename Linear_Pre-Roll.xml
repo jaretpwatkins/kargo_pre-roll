@@ -21,9 +21,9 @@
                     </MediaFile>
                   </MediaFiles>
                 <Icons>
-                  <Icon program="AdChoices" width="66" height="13" xPosition="right" yPosition="top">
+                  <Icon program="AdChoices" width="132" height="26" xPosition="left" yPosition="top">
                     <StaticResource creativeType="image/png">
-                      <![CDATA[https://jaretpwatkins.github.io/kargo_pre-roll/KargoAdTag.png]]>
+                      <![CDATA[https://jaretpwatkins.github.io/kargo_pre-roll/TL_264x52.png]]>
                     </StaticResource>
                     <IconClicks> 
                       <IconClickThrough>
