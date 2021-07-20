@@ -6,6 +6,66 @@
           <Creatives>
             <Creative sequence="1">
               <NonLinearAds>
+                <NonLinear width="1000" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
+                    ]]>
+                  </StaticResource>
+                  <NonLinearClickThrough>
+        						<![CDATA[http://iabtechlab.com]]>
+        					</NonLinearClickThrough>
+                </NonLinear>
+                <NonLinear width="900" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
+                    ]]>
+                  </StaticResource>
+                  <NonLinearClickThrough>
+        						<![CDATA[http://iabtechlab.com]]>
+        					</NonLinearClickThrough>
+                </NonLinear>
+                <NonLinear width="800" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
+                    ]]>
+                  </StaticResource>
+                  <NonLinearClickThrough>
+        						<![CDATA[http://iabtechlab.com]]>
+        					</NonLinearClickThrough>
+                </NonLinear>
+                <NonLinear width="700" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
+                    ]]>
+                  </StaticResource>
+                  <NonLinearClickThrough>
+        						<![CDATA[http://iabtechlab.com]]>
+        					</NonLinearClickThrough>
+                </NonLinear>
+                <NonLinear width="600" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
+                    ]]>
+                  </StaticResource>
+                  <NonLinearClickThrough>
+        						<![CDATA[http://iabtechlab.com]]>
+        					</NonLinearClickThrough>
+                </NonLinear>
+                <NonLinear width="500" height="90" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
+                    ]]>
+                  </StaticResource>
+                  <NonLinearClickThrough>
+        						<![CDATA[http://iabtechlab.com]]>
+        					</NonLinearClickThrough>
+                </NonLinear>
                 <NonLinear width="414" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
                   <StaticResource creativeType="application/x-javascript">
                     <![CDATA[
