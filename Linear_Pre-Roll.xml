@@ -3,7 +3,7 @@
     <InLine>
       <AdSystem>Kargo</AdSystem>
       <Advertiser>ADVERTISER_NAME</Advertiser>
-        <AdTitle>Test VAST</AdTitle>
+        <AdTitle>CREATIVE_NAME</AdTitle>
           <Error>
             <![CDATA[http://pubads.g.doubleclick.net/pagead/conversion/?ai=B-G9BNC-OV9OuFNK9hATm-K2wDfSqrIwHAAAAEAEgADgAWPTen996YMnGqYvApNgPggEXY2EtcHViLTgxMjU1MzkzMjIxMjkxNjSIAQG6ARIzMjB4NTAsMzM2eDI2OV94bWzIAQXaAQVodHRwOsACAuACAOoCIC82MDYyL2lhYl92YXN0X3NhbXBsZXMvc2tpcHBhYmxl-ALw0R6AAwGQA-ADmAPgA6gDAeAEAdIFBRDUk8oLkAYBoAYj2AcB4AcB&sigh=7FtDUMyK91M&label=videoplayfailed]]>
           </Error>
