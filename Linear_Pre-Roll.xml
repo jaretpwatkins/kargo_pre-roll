@@ -17,7 +17,7 @@
             <![CDATA[ADDITIONAL_IMPRESSION_TRACKER_URL]]>
           </Impression>
           <Creatives>
-            <Creative sequence="1">
+            <Creative id="1234" AdID="INTERNAL_ID" sequence="1">
               <Linear skipoffset="00:00:02">
                 <Duration>00:00:16</Duration>
                   <TrackingEvents>
