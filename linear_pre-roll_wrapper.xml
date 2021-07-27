@@ -1,4 +1,4 @@
-<VAST version="2.0">
+<VAST version="3.0">
   <Ad id="111" sequence="1">
     <Wrapper allowMultipleAds="true">
       <VASTAdTagURI>
