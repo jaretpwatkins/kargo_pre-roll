@@ -2,16 +2,78 @@
   <Ad id="111" sequence="1">
     <InLine>
       <AdSystem>Kargo</AdSystem>
+      <Advertiser>ADVERTISER_NAME</Advertiser>
         <AdTitle>Test VAST</AdTitle>
+          <Error>
+            <![CDATA[http://pubads.g.doubleclick.net/pagead/conversion/?ai=B-G9BNC-OV9OuFNK9hATm-K2wDfSqrIwHAAAAEAEgADgAWPTen996YMnGqYvApNgPggEXY2EtcHViLTgxMjU1MzkzMjIxMjkxNjSIAQG6ARIzMjB4NTAsMzM2eDI2OV94bWzIAQXaAQVodHRwOsACAuACAOoCIC82MDYyL2lhYl92YXN0X3NhbXBsZXMvc2tpcHBhYmxl-ALw0R6AAwGQA-ADmAPgA6gDAeAEAdIFBRDUk8oLkAYBoAYj2AcB4AcB&sigh=7FtDUMyK91M&label=videoplayfailed]]>
+          </Error>
+          <Error>
+            <![CDATA[ADDITIONAL_ERROR_TRACKER_URL]]>
+          </Error>
+          <Impression>
+            <![CDATA[http://pubads.g.doubleclick.net/pcs/view?xai=AKAOjsu5f_O0cbO99TzVxnw5hSvsC-vTWOZjPPRzbCZvX85ZNo3QPh8Zoy0kUQYUeSsIbV7CHaCdgT0u0npaBoWMkvg5Ag1X77719aC633UmjNj7zDWq9djkVfXQrienKcVIj0VotKA_cHLqI1yAdwvWIqrtVRiC6nyk-ho3t_XsbMY363NFyQMYeQcW4INcNYc0mUzDseMjpnrK4UzU7nfgLVrRP2LvmMMkzt_z-ebWNGXylNjtd8jDZ_qmzg&sig=Cg0ArKJSzCaHniC0FO_rEAE&adurl=]]>
+          </Impression>
+          <Impression>
+            <![CDATA[ADDITIONAL_IMPRESSION_TRACKER_URL]]>
+          </Impression>
           <Creatives>
             <Creative sequence="1">
               <Linear skipoffset="00:00:02">
                 <Duration>00:00:16</Duration>
-                  <TrackingEvents></TrackingEvents>
+                  <TrackingEvents>
+                    <Tracking event="start">
+                      <![CDATA[https://tk.kargo.com/t/video-start.3qutfrkrl5oxg5?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}]]></Tracking>
+                    <Tracking event="start">
+                      <![CDATA[ADDITIONAL_START_TRACKER_URL]]></Tracking>
+                    <Tracking event="firstQuartile">
+                      <![CDATA[https://tk.kargo.com/t/video-q1.3qutfrkrl5oxg6?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}]]></Tracking>
+                    <Tracking event="firstQuartile">
+                      <![CDATA[ADDITIONAL_FIRSTQUARTILE_TRACKER_URL]]></Tracking>
+                    <Tracking event="midpoint">
+                      <![CDATA[https://tk.kargo.com/t/video-q2.3qutfrkrl5oxg7?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}]]></Tracking>
+                     <Tracking event="midpoint">
+                      <![CDATA[ADDITIONAL_MIDPOINT_TRACKER_URL]]></Tracking>
+                    <Tracking event="thirdQuartile">
+                      <![CDATA[https://tk.kargo.com/t/video-q3.3qutfrkrl5oxg8?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}]]></Tracking>
+                    <Tracking event="thirdQuartile">
+                      <![CDATA[ADDITIONAL_THIRDQUARTILE_TRACKER_URL]]></Tracking>
+                    <Tracking event="complete">
+                      <![CDATA[https://tk.kargo.com/t/video-complete.3qutfrkrl5oxg9?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}]]></Tracking>
+                    <Tracking event="complete">
+                      <![CDATA[ADDITIONAL_COMPLETE_TRACKER_URL]]></Tracking>
+                    <Tracking event="mute">
+                      <![CDATA[https://tk.kargo.com/t/mute.3qutfrkrl5oxga?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}]]></Tracking>
+                    <Tracking event="mute">
+                      <![CDATA[ADDITIONAL_MUTE_TRACKER_URL]]></Tracking>
+                    <Tracking event="unmute">
+                      <![CDATA[https://tk.kargo.com/t/unmute.3qutfrkrl5oxgb?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}]]></Tracking>
+                    <Tracking event="unmute">
+                      <![CDATA[ADDITIONAL_UNMUTE_TRACKER_URL]]></Tracking>
+                    <Tracking event="pause">
+                      <![CDATA[https://tk.kargo.com/t/unmute.3qutfrkrl5oxgb?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}]]></Tracking>
+                    <Tracking event="pause">
+                      <![CDATA[ADDITIONAL_PAUSE_TRACKER_URL]]></Tracking>
+                    <Tracking event="rewind">
+                      <![CDATA[https://tk.kargo.com/t/unmute.3qutfrkrl5oxgb?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}]]></Tracking>
+                    <Tracking event="rewind">
+                      <![CDATA[ADDITIONAL_REWIND_TRACKER_URL]]></Tracking>
+                    <Tracking event="resume">
+                      <![CDATA[https://tk.kargo.com/t/unmute.3qutfrkrl5oxgb?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}]]></Tracking>
+                    <Tracking event="resume">
+                      <![CDATA[ADDITIONAL_RESUME_TRACKER_URL]]></Tracking>
+                    <Tracking event="progress" offset="00:00:10.000">
+                      <![CDATA[10_SECOND_VIEW_TRACKER_URL]]></Tracking>
+                  </TrackingEvents>
                     <VideoClicks>
                       <ClickThrough>
                         <![CDATA[ https://google.com ]]>
                       </ClickThrough>
+                      <ClickTracking>
+                        <![CDATA[CLICK_TRACKER_URL]]>
+                      </ClickTracking>
+                      <ClickTracking>
+                        <![CDATA[ADDITIONAL_CLICK_TRACKER_URL]]>
+                      </ClickTracking>
                     </VideoClicks>
                   <MediaFiles>
                     <MediaFile height="300" width="534" bitrate="698" type="video/mp4" delivery="progressive">
