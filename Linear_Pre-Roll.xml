@@ -83,14 +83,36 @@
                     </MediaFile>
                   </MediaFiles>
                 <Icons>
-                  <Icon program="AdChoices" width="132" height="26" xPosition="left" yPosition="top">
+                  <Icon program="Kargo" width="132" height="26" xPosition="left" yPosition="top">
                     <StaticResource creativeType="image/png">
                       <![CDATA[https://jaretpwatkins.github.io/kargo_pre-roll/TL_264x52.png]]>
                     </StaticResource>
                     <IconClicks> 
                       <IconClickThrough>
-                        <![CDATA[http://google.com]]> 
+                        <![CDATA[ https://kargo.com/privacy ]]> 
                       </IconClickThrough>
+                    </IconClicks>
+                  </Icon>
+                   <Icon program="NAME" width="132" height="26" xPosition="left" yPosition="bottom">
+                    <StaticResource creativeType="image/png">
+                      <![CDATA[https://jaretpwatkins.github.io/kargo_pre-roll/TL_264x52.png]]>
+                    </StaticResource>
+                    <IconClicks> 
+                      <IconClickThrough>
+                        <![CDATA[ICON_CLICK_URL]]> 
+                      </IconClickThrough>
+                      <IconClickTracking> 
+                        <![CDATA[ICON_CLICK_TRACKER_URL]]>
+                      </IconClickTracking>
+                      <IconClickTracking> 
+                        <![CDATA[ADDITIONAL_ICON_CLICK_TRACKER_URL]]>
+                      </IconClickTracking>
+                      <IconViewTracking> 
+                        <![CDATA[ICON_VIEW_TRACKER_URL]]>
+                      </IconViewTracking>
+                      <IconViewTracking> 
+                        <![CDATA[ADDITIONAL_ICON_VIEW_TRACKER_URL]]>
+                      </IconViewTracking>
                     </IconClicks>
                   </Icon>
                 </Icons>
