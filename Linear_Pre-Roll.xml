@@ -66,7 +66,7 @@
                   </TrackingEvents>
                     <VideoClicks>
                       <ClickThrough>
-                        <![CDATA[ https://google.com ]]>
+                        <![CDATA[ VIDEO_CLICK_URL ]]>
                       </ClickThrough>
                       <ClickTracking>
                         <![CDATA[CLICK_TRACKER_URL]]>
