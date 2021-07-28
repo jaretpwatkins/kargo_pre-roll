@@ -63,7 +63,7 @@
                     </MediaFile>
                   </MediaFiles>
                 <Icons>
-                  <Icon program="Kargo" width="132" height="26" xPosition="left" yPosition="top">
+                  <Icon program="Kargo Privacy" width="132" height="26" xPosition="left" yPosition="top">
                     <StaticResource creativeType="image/png">
                       <![CDATA[https://jaretpwatkins.github.io/kargo_pre-roll/TL_264x52.png]]>
                     </StaticResource>
