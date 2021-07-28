@@ -56,7 +56,7 @@
                       </ClickTracking>
                     </VideoClicks>
                   <MediaFiles>
-                    <MediaFile height="300" width="534" bitrate="698" type="video/mp4" delivery="progressive">
+                    <MediaFile height="300" width="534" bitrate="698" type="video/mp4" delivery="progressive" scalable="1" maintainAspectRatio="1">
                       <![CDATA[
                         https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council.mp4
                       ]]>
