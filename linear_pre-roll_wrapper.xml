@@ -10,7 +10,17 @@
         <Creative id="111" sequence="1">
           <Linear>
             <Icons>
-              <Icon program="AdChoices" width="160" height="60" xPosition="left" yPosition="bottom">
+              <Icon program="Kargo Privacy" width="132" height="26" xPosition="left" yPosition="top">
+                    <StaticResource creativeType="image/png">
+                      <![CDATA[https://jaretpwatkins.github.io/kargo_pre-roll/TL_264x52.png]]>
+                    </StaticResource>
+                    <IconClicks> 
+                      <IconClickThrough>
+                        <![CDATA[ https://kargo.com/privacy ]]> 
+                      </IconClickThrough>
+                    </IconClicks>
+                  </Icon>
+              <Icon program="NAME" width="160" height="60" xPosition="left" yPosition="bottom">
                 <StaticResource creativeType="image/png">
                   <![CDATA[https://jaretpwatkins.github.io/kargo/Ad_Council.png]]>
                 </StaticResource>
