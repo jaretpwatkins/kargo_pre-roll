@@ -1,0 +1,39 @@
+<VAST version="2.0">
+<Ad id="d2c2a0bf">
+<InLine>
+<AdSystem>
+<![CDATA[ Celtra ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ Celtra HTML5 Ad ]]>
+</AdTitle>
+<Description>
+<![CDATA[ Celtra HTML5 Ad ]]>
+</Description>
+<Error>
+<![CDATA[
+https://track.celtra.com/pixel.gif?sessionId=s1628773524x5e36b4e26e5d84x84229531&accountId=13be8f66&stream=adEvents&name=vastError&code=[ERRORCODE]
+]]>
+</Error>
+<Impression>
+<![CDATA[ about:blank ]]>
+</Impression>
+<Creatives>
+<Creative sequence="1" id="d2c2a0bf" AdID="d2c2a0bf">
+<Linear>
+<Duration>00:00:16</Duration>
+<TrackingEvents/>
+<AdParameters></AdParameters>
+<MediaFiles>
+<MediaFile id="d2c2a0bf" width="1280" height="720" type="application/javascript" delivery="progressive" maintainAspectRatio="true" scalable="true" apiFramework="VPAID">
+<![CDATA[
+https://ads.celtra.com/9a99f390/vpaid.js?sessionId=s1628773524x5e36b4e26e5d84x84229531&scriptId=blank-script-id&eventIndex=0&externalLineItemId=%EF%BF%BDid%21&externalSiteId=%25esid%21&externalPlacementId=%25epid%21&iosAdvId=%25%EF%BF%BDVERTISING_IDENTIFIER_PLAIN%25%25&externalAdServer=DFPPremium&eas.JWVjaWQh=%EF%BF%BDid%21&externalCampaignId=%EF%BF%BDuy%21&externalAdvertiserId=%EF%BF%BDdv%21&tagVersion=url-standard-7&androidAdvId=%25%EF%BF%BDVERTISING_IDENTIFIER_PLAIN%25%25&externalCreativeId=%EF%BF%BDid%21
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
