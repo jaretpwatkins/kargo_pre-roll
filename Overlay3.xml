@@ -6,24 +6,10 @@
           <Creatives>
             <Creative sequence="1">
               <NonLinearAds>
-                <NonLinear width="414" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                <NonLinear width="140" height="140" expandedWidth="320" expandedHeight="460" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
                   <StaticResource creativeType="application/x-javascript">
                     <![CDATA[
-                      https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
-                    ]]>
-                  </StaticResource>
-                </NonLinear>
-                <NonLinear width="375" height="70" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-                  <StaticResource creativeType="application/x-javascript">
-                    <![CDATA[
-                      https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
-                    ]]>
-                  </StaticResource>
-                </NonLinear>
-                <NonLinear width="320" height="60" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-                  <StaticResource creativeType="application/x-javascript">
-                    <![CDATA[
-                      https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
+                      https://jaretpwatkins.github.io/kargo_pre-roll/circular.html
                     ]]>
                   </StaticResource>
                 </NonLinear>
