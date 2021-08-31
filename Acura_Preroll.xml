@@ -1,0 +1,54 @@
+<VAST version="3.0">
+  <Ad id="111" sequence="1">
+    <InLine>
+      <AdSystem>Kargo</AdSystem>
+      <Advertiser>Acura</Advertiser>
+        <AdTitle>Test</AdTitle>
+          <Creatives>
+            <Creative id="1234" AdID="INTERNAL_ID" sequence="1">
+              <Linear skipoffset="00:00:02">
+                <Duration>00:00:16</Duration>
+                  <MediaFiles>
+                    <MediaFile height="300" width="534" bitrate="698" type="video/mp4" delivery="progressive" scalable="1" maintainAspectRatio="1">
+                      <![CDATA[
+                        https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council.mp4
+                      ]]>
+                    </MediaFile>
+                  </MediaFiles>
+                <Icons>
+                  <Icon program="Kargo Privacy" width="132" height="26" xPosition="left" yPosition="top">
+                    <StaticResource creativeType="image/png">
+                      <![CDATA[https://jaretpwatkins.github.io/kargo_pre-roll/TL_264x52.png]]>
+                    </StaticResource>
+                    <IconClicks> 
+                      <IconClickThrough>
+                        <![CDATA[ https://kargo.com/privacy ]]> 
+                      </IconClickThrough>
+                    </IconClicks>
+                  </Icon>
+                  <Icon program="Acura" width="75" height="75" xPosition="left" yPosition="bottom">
+                    <StaticResource creativeType="image/gif">
+                      <![CDATA[https://jaretpwatkins.github.io/kargo_pre-roll/Acura_Overlay.gif]]>
+                    </StaticResource>
+                    <IconClicks> 
+                      <IconClickThrough>
+                        <![CDATA[ https://acura.com ]]> 
+                      </IconClickThrough>
+                    </IconClicks>
+                  </Icon>
+                </Icons>
+              </Linear>
+            </Creative>
+          </Creatives>
+        </InLine>
+  </Ad>
+    <Ad id="111-overlay" sequence="2">
+     <Wrapper>
+       <VASTAdTagURI>
+         <![CDATA[
+           https://raw.githubusercontent.com/jaretpwatkins/kargo_pre-roll/main/Acura_Overlay.xml
+         ]]>
+       </VASTAdTagURI>
+     </Wrapper>
+   </Ad>
+</VAST>
