@@ -7,11 +7,11 @@
           <Creatives>
             <Creative id="1234" AdID="INTERNAL_ID" sequence="1">
               <Linear skipoffset="00:00:02">
-                <Duration>00:00:16</Duration>
+                <Duration>00:00:15</Duration>
                   <MediaFiles>
-                    <MediaFile height="300" width="534" bitrate="698" type="video/mp4" delivery="progressive" scalable="1" maintainAspectRatio="1">
+                    <MediaFile height="1080" width="1920" bitrate="698" type="video/mp4" delivery="progressive" scalable="1" maintainAspectRatio="1">
                       <![CDATA[
-                        https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council.mp4
+                        https://jaretpwatkins.github.io/kargo_pre-roll/Acura.mp4
                       ]]>
                     </MediaFile>
                   </MediaFiles>
