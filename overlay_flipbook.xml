@@ -1,0 +1,63 @@
+<VAST version="3.0">
+  <Ad id="100" sequence="1">
+    <InLine>
+      <AdSystem>Kargo</AdSystem>
+        <AdTitle>Test VAST</AdTitle>
+          <Creatives>
+            <Creative sequence="1">
+              <NonLinearAds>
+                <NonLinear width="1000" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://jaretpwatkins.github.io/kargo_pre-roll/video_overlay_flipbook.html
+                    ]]>
+                  </StaticResource>
+                </NonLinear>
+                <NonLinear width="900" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://jaretpwatkins.github.io/kargo_pre-roll/video_overlay_flipbook.html
+                    ]]>
+                  </StaticResource>
+                </NonLinear>
+                <NonLinear width="800" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://jaretpwatkins.github.io/kargo_pre-roll/video_overlay_flipbook.html
+                    ]]>
+                  </StaticResource>
+                </NonLinear>
+                <NonLinear width="700" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://jaretpwatkins.github.io/kargo_pre-roll/video_overlay_flipbook.html
+                    ]]>
+                  </StaticResource>
+                </NonLinear>
+                <NonLinear width="640" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://jaretpwatkins.github.io/kargo_pre-roll/video_overlay_flipbook.html
+                    ]]>
+                  </StaticResource>
+                </NonLinear>
+                <NonLinear width="600" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://jaretpwatkins.github.io/kargo_pre-roll/video_overlay_flipbook.html
+                    ]]>
+                  </StaticResource>
+                </NonLinear>
+                <NonLinear width="500" height="90" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://jaretpwatkins.github.io/kargo_pre-roll/video_overlay_flipbook.html
+                    ]]>
+                  </StaticResource>
+                </NonLinear>
+              </NonLinearAds>
+            </Creative>
+          </Creatives>
+        </InLine>
+      </Ad>
+</VAST>
