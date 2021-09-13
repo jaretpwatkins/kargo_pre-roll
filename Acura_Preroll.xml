@@ -26,7 +26,7 @@
                       </IconClickThrough>
                     </IconClicks>
                   </Icon>
-                  <Icon program="Acura" width="150" height="150" xPosition="left" yPosition="bottom">
+                  <Icon program="Acura" width="100" height="100" xPosition="left" yPosition="bottom">
                     <StaticResource creativeType="image/gif">
                       <![CDATA[https://jaretpwatkins.github.io/kargo_pre-roll/Acura_Overlay.gif]]>
                     </StaticResource>
