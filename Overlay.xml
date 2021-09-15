@@ -76,6 +76,13 @@
                     ]]>
                   </StaticResource>
                 </NonLinear>
+                <NonLinear width="300" height="50" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://jaretpwatkins.github.io/kargo_pre-roll/updated_ad_council_overlay.html
+                    ]]>
+                  </StaticResource>
+                </NonLinear>
               </NonLinearAds>
             </Creative>
           </Creatives>
