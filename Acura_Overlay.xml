@@ -6,6 +6,13 @@
           <Creatives>
             <Creative sequence="1">
               <NonLinearAds>
+                <NonLinear width="800" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://jaretpwatkins.github.io/kargo_pre-roll/Acura_Overlay.html
+                    ]]>
+                  </StaticResource>
+                </NonLinear>
                 <NonLinear width="640" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
                   <StaticResource creativeType="application/x-javascript">
                     <![CDATA[
