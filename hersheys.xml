@@ -26,20 +26,20 @@
                       </IconClickThrough>
                     </IconClicks>
                   </Icon>
-                
+                <Icon program="Hersheys" width="300" height="100" xPosition="left" yPosition="bottom">
+                    <StaticResource creativeType="image/gif">
+                      <![CDATA[https://jaretpwatkins.github.io/kargo_pre-roll/cta-pulse.gif]]>
+                    </StaticResource>
+                    <IconClicks> 
+                      <IconClickThrough>
+                        <![CDATA[ https://kargo.com/privacy ]]> 
+                      </IconClickThrough>
+                    </IconClicks>
+                  </Icon>
                 </Icons>
               </Linear>
             </Creative>
           </Creatives>
         </InLine>
   </Ad>
-    <Ad id="111-overlay" sequence="2">
-     <Wrapper>
-       <VASTAdTagURI>
-         <![CDATA[
-           https://raw.githubusercontent.com/jaretpwatkins/kargo_pre-roll/main/Acura_Overlay.xml
-         ]]>
-       </VASTAdTagURI>
-     </Wrapper>
-   </Ad>
 </VAST>
