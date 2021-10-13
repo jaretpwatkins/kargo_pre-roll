@@ -3,7 +3,7 @@
 <Wrapper allowMultipleAds="true">
 <VASTAdTagURI>
 <![CDATA[
-https://ads.celtra.com/cbbcd489/vpaid/vast.xml
+https://ads.celtra.com/a57d4dec/vpaid/vast.xml
 ]]>
 </VASTAdTagURI>
   <Impression>https://km.impression.com</Impression>
@@ -17,6 +17,9 @@ https://ads.celtra.com/cbbcd489/vpaid/vast.xml
           <Tracking event="thirdQuartile">//km.third.com</Tracking>
           <Tracking event="complete">//km.complete.com</Tracking>
          </TrackingEvents>
+         <VideoClicks>
+          <ClickTracking>//km.click.com</ClickTracking>
+         </VideoClicks>
        </Linear>
     </Creative>
   </Creatives>
