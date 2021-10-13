@@ -1,18 +1,9 @@
-<VAST version="2.0">
+<VAST version="3.0">
 <Ad id="84908">
 <Wrapper allowMultipleAds="true">
 <VASTAdTagURI>
 <![CDATA[
-https://raw.githubusercontent.com/jaretpwatkins/kargo_pre-roll/main/Linear_Pre-Roll.xml
-]]>
-</VASTAdTagURI>
-</Wrapper>
-</Ad>
-  <Ad id="84908" sequence="3">
-<Wrapper allowMultipleAds="true">
-<VASTAdTagURI>
-<![CDATA[
-https://raw.githubusercontent.com/jaretpwatkins/kargo_pre-roll/main/overlay2.xml
+https://ads.celtra.com/cbbcd489/vpaid/vast.xml
 ]]>
 </VASTAdTagURI>
 </Wrapper>
