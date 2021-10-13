@@ -6,6 +6,20 @@
 https://ads.celtra.com/cbbcd489/vpaid/vast.xml
 ]]>
 </VASTAdTagURI>
+  <Impression>https://km.impression.com</Impression>
+  <Creatives>
+     <Creative>
+       <Linear>
+         <TrackingEvents>
+          <Tracking event="start">//km.start.com</Tracking>
+          <Tracking event="firstQuartile">//km.first.com</Tracking>
+          <Tracking event="midpoint">//km.mid.com</Tracking>
+          <Tracking event="thirdQuartile">//km.third.com</Tracking>
+          <Tracking event="complete">//km.complete.com</Tracking>
+         </TrackingEvents>
+       </Linear>
+    </Creative>
+  </Creatives>
 </Wrapper>
 </Ad>
 </VAST>
