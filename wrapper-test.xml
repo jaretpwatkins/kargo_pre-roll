@@ -7,48 +7,48 @@
         ]]>
       </VASTAdTagURI>
       <Impression>
-        <![CDATA[jaret-impression.com]]>
+        <![CDATA[{{impression_tracker}}]]>
       </Impression>
       <Creatives>
         <Creative id="a76e14fb">
-<Linear>
-<TrackinEvents>
-<Tracking event="start">
-          <![CDATA[jaret-start.com]]>
-</Tracking
-        <Tracking event="firstQuartile">
-          <![CDATA[jaret-q1.com]]>
-        </Tracking>
-        <Tracking event="midpoint">
-          <![CDATA[jaret-q2]]>
-        </Tracking>
-        <Tracking event="thirdQuartile">
-          <![CDATA[{{video_q3}}]]>
-        </Tracking>
-        <Tracking event="complete">
-          <![CDATA[{{video_complete}}]]>
-        </Tracking>
-</TrackingEvents>
-      <VideoClicks>
-        <ClickTracking>
-          <![CDATA[{{vast_click_tracker}}]]>
-        </ClickTracking>
-      </VideoClicks>
-      <Icons>
-        <Icon program="Kargo Privacy" width="132" height="26" xPosition="left" yPosition="top">
-          <StaticResource creativeType="image/png">
-            <![CDATA[https://storage.cloud.kargo.com/ad/network/tag/assets/TL_264x52.png]]>
-          </StaticResource>
-          <IconClicks>
-            <IconClickThrough>
-              <![CDATA[https://kargo.com/privacy]]>
-            </IconClickThrough>
-          </IconClicks>
-        </Icon>
-      </Icons>
-</Linear>
-</Creative>
-</Creatives
+          <Linear>
+            <TrackingEvents>
+              <Tracking event="start">
+                <![CDATA[{{tracking_start}}]]>
+              </Tracking>
+              <Tracking event="firstQuartile">
+                <![CDATA[{{video_q1}}]]>
+              </Tracking>
+              <Tracking event="midpoint">
+                <![CDATA[{{video_mid}}]]>
+              </Tracking>
+              <Tracking event="thirdQuartile">
+                <![CDATA[{{video_q3}}]]>
+              </Tracking>
+              <Tracking event="complete">
+                <![CDATA[{{video_complete}}]]>
+              </Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking>
+                <![CDATA[{{vast_click_tracker}}]]>
+              </ClickTracking>
+            </VideoClicks>
+            <Icons>
+              <Icon program="Kargo Privacy" width="132" height="26" xPosition="left" yPosition="top">
+                <StaticResource creativeType="image/png">
+                  <![CDATA[https://storage.cloud.kargo.com/ad/network/tag/assets/TL_264x52.png]]>
+                </StaticResource>
+                <IconClicks>
+                  <IconClickThrough>
+                    <![CDATA[https://kargo.com/privacy]]>
+                  </IconClickThrough>
+                </IconClicks>
+              </Icon>
+            </Icons>
+          </Linear>
+        </Creative>
+      </Creatives
     </Wrapper>
   </Ad>
 </VAST>
