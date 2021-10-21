@@ -1,0 +1,54 @@
+<VAST version="3.0">
+  <Ad id="738430e2-0276-4527-8ad0-652bdccbf6cb">
+    <Wrapper allowMultipleAds="true">
+      <VASTAdTagURI>
+        <![CDATA[
+          https://raw.githubusercontent.com/jaretpwatkins/kargo/main/vast_example.xml
+        ]]>
+      </VASTAdTagURI>
+      <Impression>
+        <![CDATA[jaret-impression.com]]>
+      </Impression>
+      <Creatives>
+        <Creative id="a76e14fb">
+<Linear>
+<TrackinEvents>
+<Tracking event="start">
+          <![CDATA[jaret-start.com]]>
+</Tracking
+        <Tracking event="firstQuartile">
+          <![CDATA[jaret-q1.com]]>
+        </Tracking>
+        <Tracking event="midpoint">
+          <![CDATA[jaret-q2]]>
+        </Tracking>
+        <Tracking event="thirdQuartile">
+          <![CDATA[{{video_q3}}]]>
+        </Tracking>
+        <Tracking event="complete">
+          <![CDATA[{{video_complete}}]]>
+        </Tracking>
+</TrackingEvents>
+      <VideoClicks>
+        <ClickTracking>
+          <![CDATA[{{vast_click_tracker}}]]>
+        </ClickTracking>
+      </VideoClicks>
+      <Icons>
+        <Icon program="Kargo Privacy" width="132" height="26" xPosition="left" yPosition="top">
+          <StaticResource creativeType="image/png">
+            <![CDATA[https://storage.cloud.kargo.com/ad/network/tag/assets/TL_264x52.png]]>
+          </StaticResource>
+          <IconClicks>
+            <IconClickThrough>
+              <![CDATA[https://kargo.com/privacy]]>
+            </IconClickThrough>
+          </IconClicks>
+        </Icon>
+      </Icons>
+</Linear>
+</Creative>
+</Creatives
+    </Wrapper>
+  </Ad>
+</VAST>
