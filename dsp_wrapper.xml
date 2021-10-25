@@ -1,0 +1,11 @@
+<VAST version="3.0">
+  <Ad id="1110">
+    <Wrapper>
+      <VASTAdTagURI>
+        <![CDATA[
+          https://raw.githubusercontent.com/jaretpwatkins/kargo_pre-roll/main/km_creative.xml
+        ]]>
+      </VASTAdTagURI>
+    </Wrapper>
+  </Ad>
+</VAST>
