@@ -3,7 +3,7 @@
     <Wrapper allowMultipleAds="true">
       <VASTAdTagURI>
         <![CDATA[
-          https://raw.githubusercontent.com/jaretpwatkins/kargo_pre-roll/main/linear_pre-roll_wrapper.xml
+          https://raw.githubusercontent.com/jaretpwatkins/kargo_pre-roll/main/dsp_wrapper.xml
         ]]>
       </VASTAdTagURI>
     </Wrapper>
