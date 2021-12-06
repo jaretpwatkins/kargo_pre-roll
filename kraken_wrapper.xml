@@ -8,4 +8,51 @@
       </VASTAdTagURI>
     </Wrapper>
   </Ad>
+  <Ad id="100" sequence="2">
+    <InLine>
+      <AdSystem>Kargo</AdSystem>
+        <AdTitle>Test VAST</AdTitle>
+          <Creatives>
+            <Creative sequence="1">
+              <NonLinearAds>
+                <NonLinear width="800" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://jaretpwatkins.github.io/kargo_pre-roll/Acura_Overlay.html
+                    ]]>
+                  </StaticResource>
+                </NonLinear>
+                <NonLinear width="640" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://jaretpwatkins.github.io/kargo_pre-roll/Acura_Overlay.html
+                    ]]>
+                  </StaticResource>
+                </NonLinear>
+                <NonLinear width="600" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://jaretpwatkins.github.io/kargo_pre-roll/Acura_Overlay.html
+                    ]]>
+                  </StaticResource>
+                </NonLinear>
+                <NonLinear width="414" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://jaretpwatkins.github.io/kargo_pre-roll/Acura_Overlay.html
+                    ]]>
+                  </StaticResource>
+                </NonLinear>
+                <NonLinear width="375" height="70" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+                  <StaticResource creativeType="application/x-javascript">
+                    <![CDATA[
+                      https://jaretpwatkins.github.io/kargo_pre-roll/Acura_Overlay.html
+                    ]]>
+                  </StaticResource>
+                </NonLinear>
+              </NonLinearAds>
+            </Creative>
+          </Creatives>
+        </InLine>
+      </Ad>
 </VAST>
