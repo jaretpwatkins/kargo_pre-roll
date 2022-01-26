@@ -1,0 +1,67 @@
+<VAST version="3.0">
+  <Ad id="8020c251-3bce-49fd-8e0a-75910353d36e">
+    <InLine>
+      <AdSystem>
+        Kargo
+      </AdSystem>
+      <Advertiser></Advertiser>
+      <AdTitle>
+        Hershey's
+      </AdTitle>
+      <Impression>
+        <![CDATA[{{impression_video}}]]>
+      </Impression>
+      <Creatives>
+        <Creative id="aeb77969-9485-41ce-85f4-92108f616566" sequence="1">
+          <Linear>
+            <Duration>
+              00:00:10.027
+            </Duration>
+            <TrackingEvents>
+              <Tracking event="start">
+                <![CDATA[{{tracking_start}}]]>
+              </Tracking>
+              <Tracking event="firstQuartile">
+                <![CDATA[{{video_q1}}]]>
+              </Tracking>
+              <Tracking event="midpoint">
+                <![CDATA[{{video_mid}}]]>
+              </Tracking>
+              <Tracking event="thirdQuartile">
+                <![CDATA[{{video_q3}}]]>
+              </Tracking>
+              <Tracking event="complete">
+                <![CDATA[{{video_complete}}]]>
+              </Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[https://google.com]]>
+              </ClickThrough>
+              <ClickTracking>
+                <![CDATA[{{click_vast_tracker}}]]>
+              </ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile height="300" width="534" bitrate="781" type="video/mp4" delivery="progressive">
+                <![CDATA[https://storage.cloud.kargo.com/ad/mos/videos/a88b9a43478a548069a834fa383dbfdd.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+            <Icons>
+              <Icon program="Kargo Privacy" width="132" height="26" xPosition="left" yPosition="top">
+                <StaticResource creativeType="image/png">
+                  <![CDATA[https://storage.cloud.kargo.com/ad/network/tag/assets/TL_264x52.png]]>
+                </StaticResource>
+                <IconClicks>
+                  <IconClickThrough>
+                    <![CDATA[https://kargo.com/privacy]]>
+                  </IconClickThrough>
+                </IconClicks>
+              </Icon>
+            </Icons>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
