@@ -1,5 +1,5 @@
 <VAST version="3.0">
-  <Ad id="836848eb-56c5-482e-9413-079fd75ffc18" sequence="1">
+  <Ad id="836848eb-56c5-482e-9413-079fd75ffc18">
     <InLine>
       <AdSystem>
         Kargo
@@ -60,72 +60,6 @@
               </Icon>
             </Icons>
           </Linear>
-        </Creative>
-      </Creatives>
-    </InLine>
-  </Ad>
-  <Ad id="127a7ada-a326-4d30-9371-1b2082034ddd" sequence="2">
-    <InLine>
-      <AdSystem>
-        Kargo
-      </AdSystem>
-      <AdTitle>
-        test
-      </AdTitle>
-      <Creatives>
-        <Creative sequence="1">
-          <NonLinearAds>
-            <NonLinear width="1000" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-              <StaticResource creativeType="application/x-javascript">
-                <![CDATA[https://storage.cloud.kargo.com/ad/viewstream/testd3212e74-2728-4b90-af6d-7e3f9ede4f79.html]]>
-              </StaticResource>
-            </NonLinear>
-            <NonLinear width="900" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-              <StaticResource creativeType="application/x-javascript">
-                <![CDATA[https://storage.cloud.kargo.com/ad/viewstream/testd3212e74-2728-4b90-af6d-7e3f9ede4f79.html]]>
-              </StaticResource>
-            </NonLinear>
-            <NonLinear width="800" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-              <StaticResource creativeType="application/x-javascript">
-                <![CDATA[https://storage.cloud.kargo.com/ad/viewstream/testd3212e74-2728-4b90-af6d-7e3f9ede4f79.html]]>
-              </StaticResource>
-            </NonLinear>
-            <NonLinear width="700" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-              <StaticResource creativeType="application/x-javascript">
-                <![CDATA[https://storage.cloud.kargo.com/ad/viewstream/testd3212e74-2728-4b90-af6d-7e3f9ede4f79.html]]>
-              </StaticResource>
-            </NonLinear>
-            <NonLinear width="640" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-              <StaticResource creativeType="application/x-javascript">
-                <![CDATA[https://storage.cloud.kargo.com/ad/viewstream/testd3212e74-2728-4b90-af6d-7e3f9ede4f79.html]]>
-              </StaticResource>
-            </NonLinear>
-            <NonLinear width="600" height="100" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-              <StaticResource creativeType="application/x-javascript">
-                <![CDATA[https://storage.cloud.kargo.com/ad/viewstream/testd3212e74-2728-4b90-af6d-7e3f9ede4f79.html]]>
-              </StaticResource>
-            </NonLinear>
-            <NonLinear width="500" height="90" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-              <StaticResource creativeType="application/x-javascript">
-                <![CDATA[https://storage.cloud.kargo.com/ad/viewstream/testd3212e74-2728-4b90-af6d-7e3f9ede4f79.html]]>
-              </StaticResource>
-            </NonLinear>
-            <NonLinear width="414" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-              <StaticResource creativeType="application/x-javascript">
-                <![CDATA[https://storage.cloud.kargo.com/ad/viewstream/testd3212e74-2728-4b90-af6d-7e3f9ede4f79.html]]>
-              </StaticResource>
-            </NonLinear>
-            <NonLinear width="375" height="70" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-              <StaticResource creativeType="application/x-javascript">
-                <![CDATA[https://storage.cloud.kargo.com/ad/viewstream/testd3212e74-2728-4b90-af6d-7e3f9ede4f79.html]]>
-              </StaticResource>
-            </NonLinear>
-            <NonLinear width="320" height="60" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-              <StaticResource creativeType="application/x-javascript">
-                <![CDATA[https://storage.cloud.kargo.com/ad/viewstream/testd3212e74-2728-4b90-af6d-7e3f9ede4f79.html]]>
-              </StaticResource>
-            </NonLinear>
-          </NonLinearAds>
         </Creative>
       </Creatives>
     </InLine>
