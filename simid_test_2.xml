@@ -31,7 +31,7 @@
 </VideoClicks>
 <MediaFiles>
 <MediaFile delivery="progressive" type="video/mp4" apiFramework="SIMID">
-https://storage.googleapis.com/interactive-media-ads/media/android.mp4
+https://jaretpwatkins.github.io/kargo_pre-roll/Kargo_15s.mp4
 </MediaFile>
 <InteractiveCreativeFile type="text/html" apiFramework="SIMID" variableDuration="true">
 https://jaretpwatkins.github.io/kargo_pre-roll/simid_test_2.html
