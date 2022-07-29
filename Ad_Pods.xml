@@ -1,0 +1,133 @@
+<VAST version="3.0">
+  <!-- KARGO_VAST_PROPS: {"has_kargo_privacy_icon":true,"has_preroll_overlay":false,"has_main_content_overlay":false} -->
+  <Ad id="483c767a-f6f8-4227-9a36-91ff056e8ba1" sequence="1">
+    <InLine>
+      <AdSystem>
+        Kargo
+      </AdSystem>
+      <Advertiser></Advertiser>
+      <AdTitle>
+        Hershey's
+      </AdTitle>
+      <Impression>
+        <![CDATA[https://tk.kargo.com/t/impression.video.48iu31ztkzshok1g?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}&url=]]>
+      </Impression>
+      <Creatives>
+        <Creative id="78279155-0db3-4e80-8acb-fc0d20427854" sequence="1">
+          <Linear skipoffset="00:00:02">
+            <Duration>
+              00:00:10.027
+            </Duration>
+            <TrackingEvents>
+              <Tracking event="start">
+                <![CDATA[https://tk.kargo.com/t/video-start.48iu31ztkzshok19?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}&url=]]>
+              </Tracking>
+              <Tracking event="firstQuartile">
+                <![CDATA[https://tk.kargo.com/t/video-q1.48iu31ztkzshok1a?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}&url=]]>
+              </Tracking>
+              <Tracking event="midpoint">
+                <![CDATA[https://tk.kargo.com/t/video-q2.48iu31ztkzshok1b?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}&url=]]>
+              </Tracking>
+              <Tracking event="thirdQuartile">
+                <![CDATA[https://tk.kargo.com/t/video-q3.48iu31ztkzshok1c?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}&url=]]>
+              </Tracking>
+              <Tracking event="complete">
+                <![CDATA[https://tk.kargo.com/t/video-complete.48iu31ztkzshok1d?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}&url=]]>
+              </Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[https://Hershey's.com]]>
+              </ClickThrough>
+              <ClickTracking>
+                <![CDATA[https://tk.kargo.com/t/click.video.48iu31ztkzshok1o?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}&url=]]>
+              </ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile height="300" width="534" bitrate="781" type="video/mp4" delivery="progressive">
+                <![CDATA[https://storage.cloud.kargo.com/ad/mos/videos/a88b9a43478a548069a834fa383dbfdd.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+            <Icons>
+              <Icon program="Kargo Privacy" width="17" height="17" xPosition="left" yPosition="top">
+                <StaticResource creativeType="image/png">
+                  <![CDATA[https://storage.cloud.kargo.com/ad/network/tag/assets/kargo_privacy_icon_mobile.png]]>
+                </StaticResource>
+                <IconClicks>
+                  <IconClickThrough>
+                    <![CDATA[https://kargo.com/privacy]]>
+                  </IconClickThrough>
+                </IconClicks>
+              </Icon>
+            </Icons>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id="56c885a9-de9f-4474-80d2-01f79f7c1e2b" sequence="2">
+    <InLine>
+      <AdSystem>
+        Kargo
+      </AdSystem>
+      <Advertiser></Advertiser>
+      <AdTitle>
+        acura
+      </AdTitle>
+      <Impression>
+        <![CDATA[{{impression_video}}]]>
+      </Impression>
+      <Creatives>
+        <Creative id="209fae41-7331-43df-8811-8d85889d056c" sequence="1">
+          <Linear skipoffset="00:00:02">
+            <Duration>
+              00:00:015.04
+            </Duration>
+            <TrackingEvents>
+              <Tracking event="start">
+                <![CDATA[{{tracking_start}}]]>
+              </Tracking>
+              <Tracking event="firstQuartile">
+                <![CDATA[{{video_q1}}]]>
+              </Tracking>
+              <Tracking event="midpoint">
+                <![CDATA[{{video_mid}}]]>
+              </Tracking>
+              <Tracking event="thirdQuartile">
+                <![CDATA[{{video_q3}}]]>
+              </Tracking>
+              <Tracking event="complete">
+                <![CDATA[{{video_complete}}]]>
+              </Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[https://acura.com]]>
+              </ClickThrough>
+              <ClickTracking>
+                <![CDATA[{{click_vast_tracker}}]]>
+              </ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile height="300" width="534" bitrate="791" type="video/mp4" delivery="progressive">
+                <![CDATA[https://storage.cloud.kargo.com/ad/mos/videos/14080b2d335052f25b13bf192ed88c0e.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+            <Icons>
+              <Icon program="Kargo Privacy" width="17" height="17" xPosition="left" yPosition="top">
+                <StaticResource creativeType="image/png">
+                  <![CDATA[https://storage.cloud.kargo.com/ad/network/tag/assets/kargo_privacy_icon_mobile.png]]>
+                </StaticResource>
+                <IconClicks>
+                  <IconClickThrough>
+                    <![CDATA[https://kargo.com/privacy]]>
+                  </IconClickThrough>
+                </IconClicks>
+              </Icon>
+            </Icons>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
