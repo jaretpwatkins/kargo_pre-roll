@@ -7,9 +7,9 @@
           <Creatives>
                 <Creative id="5480" sequence="1">
                     <CompanionAds>
-                        <Companion id="1232" width="300" height="250" assetWidth="250" assetHeight="200" expandedWidth="350" expandedHeight="250">
+                        <Companion id="1232" width="320" height="50">
                                <StaticResource creativeType="application/x-javascript">
-                                <![CDATA[https://jaretpwatkins.github.io/kargo_pre-roll/Ad_Council_Overlay.html]]>
+                                <![CDATA[https://jaretpwatkins.github.io/kargo/monster_hover.html]]>
                                 </StaticResource>
                                 <CompanionClickThrough>
                                     <![CDATA[https://iabtechlab.com]]>
@@ -23,7 +23,7 @@
                   <MediaFiles>
                     <MediaFile height="1080" width="1920" bitrate="698" type="video/mp4" delivery="progressive" scalable="1" maintainAspectRatio="1">
                       <![CDATA[
-                        https://jaretpwatkins.github.io/kargo_pre-roll/Acura.mp4
+                        https://jaretpwatkins.github.io/kargo/binary.mp4
                       ]]>
                     </MediaFile>
                   </MediaFiles>
@@ -45,13 +45,4 @@
           </Creatives>
         </InLine>
   </Ad>
-    <Ad id="111-overlay" sequence="2">
-     <Wrapper>
-       <VASTAdTagURI>
-         <![CDATA[
-           https://raw.githubusercontent.com/jaretpwatkins/kargo_pre-roll/main/Acura_Overlay.xml
-         ]]>
-       </VASTAdTagURI>
-     </Wrapper>
-   </Ad>
 </VAST>
