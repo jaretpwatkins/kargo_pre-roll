@@ -1,0 +1,72 @@
+<VAST version="3.0">
+  <!-- KARGO_VAST_PROPS: {"is_vpaid":false,"has_kargo_privacy_icon":true,"has_main_content_overlay":false,"has_vast_simid":true} -->
+  <Ad id="333450be-d052-48c2-8b1a-564d21371089">
+    <InLine>
+      <AdSystem>
+        Kargo
+      </AdSystem>
+      <Advertiser></Advertiser>
+      <AdTitle>
+        Circular
+      </AdTitle>
+      <Impression>
+        <![CDATA[https://tk.kargo.com/t/impression.video.kdgoulb2kqu2g?rand=%%CACHEBUSTER%%&uuid={IMP_ID}&aslot={AD_SLOT}&creative_source=km&creative_id=113021&url=]]>
+      </Impression>
+      <Creatives>
+        <Creative id="3d4ebf65-63d8-42d2-a8f2-c0506ecf8da7" sequence="1">
+          <Linear>
+            <Duration>
+              00:00:30.03
+            </Duration>
+            <TrackingEvents>
+              <Tracking event="start">
+                <![CDATA[https://tk.kargo.com/t/video-start.kdgoulb2kqu29?rand=%%CACHEBUSTER%%&uuid={IMP_ID}&aslot={AD_SLOT}&creative_source=km&creative_id=113021&url=]]>
+              </Tracking>
+              <Tracking event="firstQuartile">
+                <![CDATA[https://tk.kargo.com/t/video-q1.kdgoulb2kqu2a?rand=%%CACHEBUSTER%%&uuid={IMP_ID}&aslot={AD_SLOT}&creative_source=km&creative_id=113021&url=]]>
+              </Tracking>
+              <Tracking event="midpoint">
+                <![CDATA[https://tk.kargo.com/t/video-q2.kdgoulb2kqu2b?rand=%%CACHEBUSTER%%&uuid={IMP_ID}&aslot={AD_SLOT}&creative_source=km&creative_id=113021&url=]]>
+              </Tracking>
+              <Tracking event="thirdQuartile">
+                <![CDATA[https://tk.kargo.com/t/video-q3.kdgoulb2kqu2c?rand=%%CACHEBUSTER%%&uuid={IMP_ID}&aslot={AD_SLOT}&creative_source=km&creative_id=113021&url=]]>
+              </Tracking>
+              <Tracking event="complete">
+                <![CDATA[https://tk.kargo.com/t/video-complete.kdgoulb2kqu2d?rand=%%CACHEBUSTER%%&uuid={IMP_ID}&aslot={AD_SLOT}&creative_source=km&creative_id=113021&url=]]>
+              </Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[https://kroger.com]]>
+              </ClickThrough>
+              <ClickTracking>
+                <![CDATA[https://tk.kargo.com/t/click.video.kdgoulb2kqu2h?rand=%%CACHEBUSTER%%&uuid={IMP_ID}&aslot={AD_SLOT}&creative_source=km&creative_id=113021&url=]]>
+              </ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile height="300" width="534" bitrate="934" type="video/mp4" delivery="progressive">
+                <![CDATA[https://storage.cloud.kargo.com/ad/mos/videos/d1dac1d9ddee29c7a5b1dbea9ec15efe.mp4]]>
+              </MediaFile>
+              <InteractiveCreativeFile type="text/html" apiFramework="SIMID" variableDuration="true">
+                <![CDATA[https://storage.cloud.kargo.com/ad/viewstream/Circular99447c5a-bc9c-46fd-b3b6-2a30401892e2.html?click_url_unesc=https://tk.kargo.com/t/click.simid.kdgoulb2kqu2k?rand=%%CACHEBUSTER%%&uuid={IMP_ID}&aslot={AD_SLOT}&creative_source=km&creative_id=113021&url=]]>
+              </InteractiveCreativeFile>
+            </MediaFiles>
+            <Icons>
+              <Icon program="Kargo Privacy" width="17" height="17" xPosition="left" yPosition="top">
+                <StaticResource creativeType="image/png">
+                  <![CDATA[https://storage.cloud.kargo.com/ad/network/tag/assets/kargo_privacy_icon_mobile.png]]>
+                </StaticResource>
+                <IconClicks>
+                  <IconClickThrough>
+                    <![CDATA[https://kargo.com/privacy]]>
+                  </IconClickThrough>
+                </IconClicks>
+              </Icon>
+              {{preroll_overlay_icon}}
+            </Icons>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
